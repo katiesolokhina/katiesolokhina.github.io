@@ -1,7 +1,7 @@
 language: node_js
 deploy:
   provider: heroku
-  api_key: bb9d7c4a-4f42-43ed-b117-2a0772f17674
+  api_key: 41d0c766-a1b3-41c6-bad4-3e3fc32ae72a
   app: homework-three
   on:
     repo: katiesolokhina/katiesolokhina.github.io
