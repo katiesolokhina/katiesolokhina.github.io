@@ -3,11 +3,11 @@
   "description": "homework eight deploys homework three",
   "version": "1.0.0",
   "main": "HomeworkThree.js",
-  "scripts": {
-    "start": "node HomeworkThree.js"
-  },
   "engines": {
     "node": "12.13.0",
     "npm": "6.13.0"
+  },
+  "scripts": {
+    "start": "node HomeworkThree.js"
   }
 }
