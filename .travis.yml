@@ -1,0 +1,9 @@
+language: node_js
+os: windows
+  deploy:
+      on: 
+        repo: katiesolokhina/katiesolokhina.github.io
+      app: homework-three
+      api_key:
+        secure: KEY
+      provider: heroku
