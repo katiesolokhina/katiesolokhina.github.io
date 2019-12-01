@@ -13,3 +13,4 @@ devDependencies:
   grunt-contrib-jshint: ^1.0.0
   grunt-maven-tasks: ^1.4.0 
   grunt-npm-install: ^0.3.1
+npm start
