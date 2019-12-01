@@ -7,10 +7,5 @@ deploy:
   on:
     repo: katiesolokhina/katiesolokhina.github.io
     branch: master
-devDependencies: 
-  grunt: ^0.4.5
-  grunt-bower-install: ^1.6.0
-  grunt-contrib-jshint: ^1.0.0
-  grunt-maven-tasks: ^1.4.0 
-  grunt-npm-install: ^0.3.1
-  npm install typescript --save-dev
+devDependencies:   
+  npm install
