@@ -7,5 +7,4 @@ deploy:
   on:
     repo: katiesolokhina/katiesolokhina.github.io
     branch: master
-devDependencies:   
-  npm install
+npm install
