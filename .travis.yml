@@ -1,8 +1,8 @@
 language: node_js
 deploy:
   provider: heroku
-  api_key:
-    secure: f5OrSXPMX391yh4HOcUd3XD2cLU4SZGoWicdhQ1rqJ4LinxUsvDWkSBU4+xYgywOCq7sMSzwalyIZxqdoaEfbsObjITZ5E/VrLd1i0HQEEDCKPsIFEuXrxmiW0aNIstbRoZiFNyhzDrTRa8eAAUVFeLJrWwaRQyM5urJRlYK7cZ7ZX/lK9BImXD+hEoaSN2lWf3Wv1Z6/uFN56e4wggY587pKpddXhAi2KeF90ZC0aXGwTGoNNuNzzdTsehB0iLSbKd3w5CwfbZQszPymxM7hx2imtkiqK9zNfqXDTfR2Ng4msD3ad/CmMuoAZNGbAyeUUCgxq+NJwqAzUuIjsz+Ul8bGoBdWZECJsYoQo4HX6+q7MVl5G2ah5n6/q3WISRvocsgvwna8PoRod6r4KyAvvMaZNgCz9MwFv8ePGUsNJ27apL6/ygq5kJiM1xX5XNBNbtCJ6i84Ectmt4wcLQUVKh9FNwxVA+FLEKzqm2W27IGhjy7tvFCcAZwOePYqRwLHv6sLg2+NTgSNZ+/e/Wf0zZAz/+3fCLXTBO7zuRw0m+fS9yQtZBGqhkFZgJXexs0R5xUHnWSB7o/sM3sLLsLO7BAD/bX/yq7BqLrxcnf+wiNpE+nTu3jR3PBDQ9srI3u3ctyweq6MoJ07+1YfPa6WbvRUUS8paii5SNsOqWvY5I=
+  api_key: bb9d7c4a-4f42-43ed-b117-2a0772f17674
+    secure: KEY
   app: homework-three
   on:
     repo: katiesolokhina/katiesolokhina.github.io
