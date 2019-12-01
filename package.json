@@ -3,7 +3,7 @@
   "description": "homework eight deploys homework three",
   "version": "1.0.0",
   "engines": {
-    "node": "12.13.0"
+    "node": "12.13.0",
     "npm": "6.13.0"
   },
   "scripts": {
