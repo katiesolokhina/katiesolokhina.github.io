@@ -7,7 +7,5 @@
   },
   "scripts": {
     "start": "node HomeworkThree.js"
-    "test": "mocha",
-    "postinstall": "bower install && grunt build"
   }
 }
