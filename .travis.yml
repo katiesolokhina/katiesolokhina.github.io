@@ -1,8 +1,6 @@
 language: node_js,
-  deploy:
-      on: 
-        repo: katiesolokhina/katiesolokhina.github.io
-      app: homework-three
-      api_key:
-        secure: KEY
-      provider: heroku
+ deploy:
+   app: homework-three,
+   api_key:
+     secure: KEY,
+   provider: heroku
