@@ -4,7 +4,7 @@
 
 ## **Travis Deployment**
 
-Deployed on github pages - katiesolokhina.github.io
+Deployed on github pages - https://katiesolokhina.github.io/
 
 Travis - https://travis-ci.com/katiesolokhina/katiesolokhina.github.io/builds/138818680
 
