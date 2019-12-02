@@ -2,9 +2,9 @@
 
 ![Deploy status](https://travis-ci.com/katiesolokhina/katiesolokhina.github.io.svg?branch=master)
 
-## **Travis & Heroku Deployment**
+## **Travis Deployment**
 
-Deployed on Heroku with continuios integration here - https://homework-three.herokuapp.com/
+Deployed on github pages - katiesolokhina.github.io
 
 Travis - https://travis-ci.com/katiesolokhina/katiesolokhina.github.io/builds/138818680
 
